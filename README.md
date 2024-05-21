@@ -22,11 +22,12 @@
 
 ###
 
-<h2 align="left">🔗 Projects</h2>
+<h2 align="left">📂 Projects</h2>
 
 ###
 
-<p align="left">Hospitality Analysis: Analyzed data to optimize operations and improve guest experience in the hospitality sector.<br>Festive Campaign Analysis: Analyzed marketing campaign effectiveness during festive seasons.</p>
+<p align="left"><a href="https://app.powerbi.com/view?r=eyJrIjoiZGE4YTQ0YTYtODVmNy00NDYxLWFjZGUtOWQyNWM1MGM0NmY5IiwidCI6ImZhNDYzMGI5LTY1YjEtNDY1ZC05ZDcxLTJkNmY5Y2I4NWE4YiIsImMiOjl9" target="_blank">Hospitality Analysis</a>: Analyzed data to optimize operations and improve guest experience in the hospitality sector.<br>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNTc3NTNkNjgtZmYxMS00NTUwLWI3OWItNjFlNDJmOTVlMDhlIiwidCI6ImZhNDYzMGI5LTY1YjEtNDY1ZC05ZDcxLTJkNmY5Y2I4NWE4YiIsImMiOjl9" target="_blank">Festive Analysis</a>:Analyzed marketing campaign effectiveness during festive seasons.</p>
 
 ###
 
